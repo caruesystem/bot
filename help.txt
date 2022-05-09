@@ -1,0 +1,18 @@
+    welcome to makima carue
+
+the best anime community project
+if you are just getting started
+you can use the following
+commands to get things done
+    help: /help
+    news: /news or /n
+
+to  send a post
+    type: /post
+to check profile:
+    type: /profile or /my_profile
+you can check poeple profile by
+typing:   !lolo
+
+
+
